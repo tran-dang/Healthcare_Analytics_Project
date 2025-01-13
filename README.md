@@ -35,6 +35,8 @@ The dataset consisted of one primary table (combined and appended from 8 tables)
   The All_data table is the primary dataset used for the analysis, allowing for comprehensive visualizations and insights.
   
 </details>
+<img width="812" alt="image" src="https://github.com/tran-dang/Healthcare_Analytics_Project/blob/main/assets/Tables.png">
+
 
 
 ## Insights Summary
@@ -121,3 +123,7 @@ The dashboard is created in PowerBI, providing interactive visualizations that e
 The analysis is presented through the following views:
 - Summary Page: Provides an overall view of the patient waiting list status.
 - Detailed Page: Offers granular analysis at specialty and age profile levels.
+
+<img width="812" alt="image" src="https://github.com/tran-dang/Healthcare_Analytics_Project/blob/main/assets/SummaryPage.png">
+
+<img width="812" alt="image" src="https://github.com/tran-dang/Healthcare_Analytics_Project/blob/main/assets/DetailedPage.png">
