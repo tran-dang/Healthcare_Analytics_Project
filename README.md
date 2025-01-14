@@ -124,6 +124,9 @@ The analysis is presented through the following views:
 - Summary Page: Provides an overall view of the patient waiting list status.
 - Detailed Page: Offers granular analysis at specialty and age profile levels.
 
+View the dashboard [here](https://app.powerbi.com/reportEmbed?reportId=8647c3ea-dc05-495c-be4a-ec658e42fb7f&autoAuth=true&ctid=5cdc5b43-d7be-4caa-8173-729e3b0a62d9) for more insights.
+
+
 <img width="812" alt="image" src="https://github.com/tran-dang/Healthcare_Analytics_Project/blob/main/assets/SummaryPage.png">
 
 <img width="812" alt="image" src="https://github.com/tran-dang/Healthcare_Analytics_Project/blob/main/assets/DetailedPage.png">
