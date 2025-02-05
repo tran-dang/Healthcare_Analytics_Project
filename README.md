@@ -31,7 +31,7 @@ The dataset consisted of one primary table (combined and appended from 8 tables)
   - *Inpatient*: Contains data specific to inpatient waiting lists (Combined from 4 tables).
   - *Outpatient*: Contains data specific to outpatient waiting lists (Combined from 4 tables).
   - *All_data*: Consolidates data from the Inpatient and Outpatient tables, and is used for all visualizations and analyses in this project (Appended from Inpatient and Outpatient).
-  - *Mapping_Specialty*: Used for mapping purposes and linking data points geographically.
+  - *Mapping_Specialty*: Used for mapping purposes and linking data points geographically.  
   The All_data table is the primary dataset used for the analysis, allowing for comprehensive visualizations and insights.
   
 </details>
